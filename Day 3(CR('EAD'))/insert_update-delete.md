@@ -1,5 +1,4 @@
 # Day 03 — DISTINCT, Removing Duplicates, INSERT, UPDATE, DELETE
-
 ---
 
 # 1️⃣ What is the use of DISTINCT?
